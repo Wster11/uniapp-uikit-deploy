@@ -1,0 +1,1 @@
+import{a as s,c as e,h as r}from"./index-MS6lchtB.js";import{_ as o}from"./_plugin-vue_export-helper.BCo6x5W8.js";const t=o({},[["render",function(o,t){const a=r;return s(),e(a,{class:"empty"})}],["__scopeId","data-v-73dc1cd8"]]);export{t as E};
